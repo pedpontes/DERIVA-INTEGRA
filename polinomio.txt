@@ -1,0 +1,5 @@
+4 2.0x^2 1.0x^-1 -2.0x^5 -4.0x^1 
+F' =  + 4.0x^1  -1.0x^-2  -10.0x^4  -4.0x^0 
+A Funcao decresce em 2.0 a uma velocidade de -156.3
+Integral(F) =  + 0.7x^3  + 1.0ln(x)  -0.3x^6  -2.0x^2 
+Area abaixo de Fx = 1351.6 no intervalo de 4.0 a 1.0

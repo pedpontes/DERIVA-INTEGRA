@@ -1,0 +1,14 @@
+3 2.000000  4.000000  8.000000 
+
+Valor medio:  4.667
+
+Soma dos numeros:  14.000
+
+Numeros totais (n):  3
+
+Desvio padrao da populacao:  2.494
+
+Desvio padrao da amostra:  3.055
+
+Variancia populacional:  6.222
+
